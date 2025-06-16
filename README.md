@@ -1,5 +1,7 @@
 # Profiling cellular diversity in sponges informs animal cell type and nervous system evolution
 
+Copied by Cyril Cros / Alexi Pearson-lund for practice, all credits goes to Jake Musser
+
 This directory contains custom scripts used for analysis of single-cell RNAseq data and segmentation of FIB-SEM data in the study Musser et al. 2019,  "Profiling cellular diversity in sponges informs animal cell type and nervous system evolution"
 
 The following directories contain:
