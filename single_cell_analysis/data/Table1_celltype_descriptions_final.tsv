@@ -1,0 +1,24 @@
+Cell Type Name	Nomenclature	Cell Type Family	Cluster #	Description
+Archaeocytes	Arc	Archeocytes and relatives	1	Large mesenchymal cells with prominent nucleolus found  throughout mesohyl
+Sclerocytes	Scl	Archeocytes and relatives	31	Elongate mesenchymal cells that produce siliceous spicules
+Mesocytes 1	Mes1	Archeocytes and relatives	33	Medium-sized and irregularly-shaped mesenchymal cell lacking nucleolus, fairly  common in mesohyl
+Mesocytes 2	Mes2	Archeocytes and relatives	36	Medium-sized egg-shaped mesenchymal cells with nucleolus, smaller than archaeocytes
+Mesocytes 3	Mes3	Archeocytes and relatives	41	Elongate mesohyl cell, very rare
+Incurrent Pinacocytes1	incPin1	Endymocytes	21	Epithelial cells forming external tent, outer layer of osculum, and lining subdermal lacunae
+Incurrent Pinacocytes2	incPin2	Endymocytes	22	Epithelial cells forming external tent, outer layer of osculum, and lining subdermal lacunae
+Apendopinacocytes1	apnPin1	Endymocytes	27	Epithelial cells lining excurrent channels and inner layer of osculum
+Apendopinacocytes2	apnPin2	Endymocytes	28	Epithelial cells lining excurrent channels and inner layer of osculum
+Basopinacocytes	basPin	Endymocytes	40	Epithelial cells forming layer adherent to substratum and sometimes enwrapping spicules inserted into the base of sponge.
+Sclerophorocytes	Scp	Endymocytes	37	Cells that enwrap and transport spicules
+Lophocytes	Lph	Endymocytes	18	Migratory cells with elongate, asymmetric shape that are most prevalent near basopinacocytes and incurrent pinacocytes
+Metabolocytes1	Met1	Endymocytes	24	Large, multipolar mesohyl cells lacking nucleolus
+Metabolocytes2	Met2	Endymocytes	25	Large, multipolar mesohyl cells lacking nucleolus
+Choanoblasts1	Chb1	Peptidocytes	8	Proliferative medium-size cells typically adjacent to choanocyte chambers, lacking collar and cilium
+Choanoblasts2	Chb2	Peptidocytes	9	Proliferative medium-size cells typically adjacent to choanocyte chambers, lacking collar and cilium
+Choanocytes	Cho	Peptidocytes	10	Mature choanocytes, small cells with collar and cilium
+Apopylar Cells	Apo	Peptidocytes	11	Cells forming the excurrent pore of mature choanocyte chamber. Cilia present but lacks collar
+Myopeptidocytes1	Myp1	Peptidocytes	4	Medium-sized mesechymal cells with prominent vacuoles and long projections forming cellular network, nucleolus absent
+Myopeptidocytes2	Myp2	Peptidocytes	5	Medium-sized mesechymal cells with prominent vacuoles and long projections forming cellular network, nucleolus absent
+Amoebocytes	Amb	Amoeboid-Neuroid	39	Small mesenchymal cells, sometimes observed engulfing other cells
+Neuroid	Nrd	Amoeboid-Neuroid	35	Small, multipolar mesenchymal cells with thin projections, usually found in choanocyte chambers 
+Granulocytes	Grl	Amoeboid-Neuroid	30	Small, multipolar mesenchymal cells with thin projections, scattered in mesenchyme and in proximity to pinacocytes

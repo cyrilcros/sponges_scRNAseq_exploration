@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.Rmd": "rmd"
+    },
+    "r.rpath.linux": "/g/arendt/Cyril/envs/conda_env/6dpf_paper/bin/R",
+    "r.rterm.linux": "/g/arendt/Cyril/envs/conda_env/6dpf_paper/bin/radian",
+    "r.rterm.option": [
+        "--no-save",
+        "--no-restore",
+        "--r-binary=/g/arendt/Cyril/envs/conda_env/6dpf_paper/bin/R"
+    ],
+    "r.bracketedPaste": true,
+    "r.sessionWatcher": true,
+    "r.plot.useHttpgd": true,
+    "r.lsp.diagnostics": false,
+    "remote.autoForwardPorts": true,
+    "[r]": {
+        "editor.defaultFormatter": "REditorSupport.r",
+        "editor.formatOnSave": true
+      },
+    "[rmd]": {
+        "editor.defaultFormatter": "REditorSupport.r",
+        "editor.formatOnSave": true
+    }
+}

@@ -1,0 +1,24 @@
+Family	cell_type_shortname	cell_type_longname
+Endymocyte	incPin1	Incurrent Pinacocytes 1
+Endymocyte	incPin2	Incurrent Pinacocytes 2
+Endymocyte	excPin1	Excurrent Pinacocytes 1
+Endymocyte	excPin2	Excurrent Pinacocytes 2
+Endymocyte	Lph	Lophocytes
+Endymocyte	basPin	Basopinacocytes
+Endymocyte	Spc	Sclerophorocytes
+Endymocyte	Met1	Metabalocytes 1
+Endymocyte	Met2	Metabalocytes 2
+Peptidocyte	Chb1	Choanoblasts 1
+Peptidocyte	Chb2	Choanoblasts 2
+Peptidocyte	Cho	Choanocytes
+Peptidocyte	Apo	Apopylar Cells
+Peptidocyte	Myp1	Myopeptidocytes 1
+Peptidocyte	Myp2	Myopeptidocytes 2
+Amoeboid-Neuroid	Amb	Amoeboid
+Amoeboid-Neuroid	choNrd	Neuroid (choanocytes)
+Amoeboid-Neuroid	pinNrd	Neuroid (pinacocytes)
+Archaeocyte	Arc	Archaeocytes
+Archaeocyte	Scl	Sclerocytes
+Archaeocyte	Mes1	Mesocytes 1
+Archaeocyte	Mes2	Mesocytes 2
+Archaeocyte	Mes3	Mesocytes 3
