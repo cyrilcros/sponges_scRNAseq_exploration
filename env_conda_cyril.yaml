@@ -1,4 +1,4 @@
-name: 6dpf_paper
+name: sponges_jake_redo
 channels:
   - http://hof.cluster.embl.de/conda-forge
   - http://hof.cluster.embl.de/bioconda
@@ -429,4 +429,4 @@ dependencies:
   - xorg-libxt=1.3.1
   - zeromq=4.3.5
   - zstd=1.5.7
-prefix: /g/arendt/Cyril/envs/conda_env/6dpf_paper
+prefix: /g/arendt/Cyril/envs/conda_env/sponges_jake_redo
